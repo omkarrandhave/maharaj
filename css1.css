@@ -1,0 +1,30 @@
+h1{
+
+display: block;
+margin: 0 auto;
+margin-bottom: 3%;
+text-align: center;
+line-height: 300%;
+width: 30%;
+border-radius: 5%;
+ overflow: auto;
+}
+
+p{ 
+display:inline-block;
+     margin:0 auto;
+     margin-top: 10px;
+margin-left: 10px;
+	margin:10px;
+ 	text_decoration:none;
+text-align: center;
+  border: 2px solid #73AD21;
+  padding: 30px;
+  
+}
+
+img{
+width: 20%;
+}
+
+
